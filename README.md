@@ -2,7 +2,7 @@
 
 This repository contains solutions for the technical assessment, including algorithm problems and a frontend login page.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 solum-tech-test/
@@ -11,7 +11,7 @@ solum-tech-test/
 └── C/              # Problem C: Login Page (React)
 ```
 
-## 🚀 Quick Navigation
+## Quick Navigation
 
 ### Problem A: Mystic Waves
 **Language:** Python  
@@ -60,14 +60,14 @@ Modern, responsive login page with:
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Python 3.x** - Algorithm solutions (A & B)
 - **React 18** - Frontend UI framework
 - **Vite** - Build tool & dev server
 - **CSS3** - Modern styling with gradients & animations
 
-## 📝 Key Features
+## Key Features
 
 ### Algorithm Solutions (A & B)
 - ✅ Clean, readable code
@@ -82,18 +82,17 @@ Modern, responsive login page with:
 - ✅ Fully responsive (mobile, tablet, desktop)
 - ✅ Production-ready code
 
-## 🎯 Testing
+## Testing
 
 Each problem includes:
 - Sample input files
 - Detailed README with examples
 - Clear instructions for running
 
-## 👨‍💻 Author
+## 
 
 Built with ❤️ for the technical assessment
 
 ---
 
-**Note:** All solutions are production-ready, well-documented, and recruiter-friendly!
 
